@@ -1,1 +1,7 @@
 This is reasearch about how UniFi network works and where to grab data, how to manage wifi ...
+
+This file hold all google maps, markers locations aka Locations of Hotspot
+http://unifi.sbb.rs/json/data.json
+
+This file hold heatmaps for google maps
+https://heatmaps.nettvplus.com/theclient.php
